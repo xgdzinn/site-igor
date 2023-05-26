@@ -60,7 +60,7 @@ header {
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 .estudante-titulo{
     text-align: center;
